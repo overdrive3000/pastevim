@@ -8,6 +8,7 @@ Requirements
 vim needs to have been compiled with perl support.
 
 Perl Module
+
 WWW::Pastebin::PastebinCom::API
 
 Installation
@@ -16,6 +17,7 @@ Installation
 With pathogen
 
 cd ~/.vim/bundle
+
 git clone https://github.com/overdrive3000/pastevim.git
 
 Usage
