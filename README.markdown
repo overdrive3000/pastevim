@@ -1,4 +1,4 @@
-pastebin-vim
+pastevim
 ============
 
 
